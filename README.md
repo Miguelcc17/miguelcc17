@@ -1,60 +1,87 @@
-##
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%9A%80+Code.+Scale.+Automate.+%E2%9C%A8;Cloud-first+innovator.+%E2%98%81%EF%B8%8F;Data-driven+thinker.;Dockerized+efficiency.+%F0%9F%90%B3;AI-powered+solutions.+;Full+stack+agility.+;Linux+at+the+core.+%F0%9F%90%A7;Scalability+unlocked.+;Future-ready+dev.+" alt="Typing SVG" /></a>
-</p>
-
-
-<br>
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<br><br>
-- :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](#).
-- :boom: You can visit [MY WEBSITE](#).
-<br>
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture>  My Skills
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,git,py,kotlin" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,graphql,flask,django,selenium,sklearn,tensorflow" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,bash,kubernetes,docker,github,linux" />
-  </a>
-</p>
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
-
-----
-	
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=miguelcc17&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelcc17&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
-<br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<div align="center">
+  <h1>Hola, soy Miguel 👋</h1>
+  <h3>Full Stack Developer & Systems Architect</h3>
+  <p><em>Especializado en el desarrollo de microservicios robustos, automatización avanzada y arquitecturas contenerizadas eficientes.</em></p>
+  
+  <p align="center">
+    <a href="TU_LINK_DE_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="TU_WEB_SITE"><img src="https://img.shields.io/badge/Website-12100E?style=for-the-badge&logo=chrome&logoColor=white" alt="Portfolio"/></a>
+    <a href="TU_LINK_DE_CV"><img src="https://img.shields.io/badge/Resume-E63946?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"/></a>
   </p>
+</div>
+
+---
+
+### 💻 Sobre Mí
+
+Soy un Ingeniero de Software enfocado en resolver problemas complejos de negocio mediante soluciones tecnológicas escalables y mantenibles. Me apasiona el diseño de arquitecturas backend modernas, la optimización de bases de datos y la implementación de pipelines de integración y despliegue continuo (CI/CD).
+
+- 🚀 **Enfoque Actual:** Diseño de arquitecturas desacopladas (Microservicios) y automatización de flujos de trabajo.
+- 🧠 **Filosofía de Trabajo:** Código limpio, enfoque offline-first cuando el negocio lo requiere, y optimización estricta de recursos de infraestructura.
+- 📈 **Evolución Continua:** Profundizando constantemente en ingeniería de sistemas complejos y ciencias de la computación aplicadas.
+
+### 🛠️ Tech Stack & Herramientas
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Backend & Core</b></td>
+      <td align="center"><b>Databases & Automation</b></td>
+      <td align="center"><b>DevOps & Infrastructure</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white">
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🚀 Proyectos Destacados
+
+| Proyecto | Descripción | Tecnologías Destacadas |
+| :--- | :--- | :--- |
+| **Megureit** | Desarrollo del core de sistema inmobiliario para la gestión y cálculo de precios de apartamentos en el mercado de Israel. | `Real Estate Core` `Pricing Engine` |
+| **Charbys** | Plataforma web con arquitectura middleware de seguimiento multi-perfil e integración de catálogos externos. | `Backend Optimization` `Middleware` |
+| **AhorrarIA** | Aplicación móvil enfocada en arquitectura offline-first con protocolos de pruebas de aceptación de usuario (UAT). | `Room Database` `Mobile Arch` |
+| **Soluciones B2B** | Desarrollo y arquitectura de diversos sistemas de software a medida para la digitalización y optimización de empresas medianas y pequeñas. | `Custom Software` `B2B Solutions` |
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=miguelcc17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=3776AB&icon_color=3776AB" alt="Miguel's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcc17&layout=compact&theme=tokyonight&hide_border=true&title_color=3776AB" alt="Top Languages" width="48%" />
+</div>
+
+<br />
+
+<details>
+<summary>🏆 <b>Ver Trofeos de Perfil</b></summary>
+<br />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=miguelcc17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</div>
 </details>
-
-
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
-
-----
-	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miguelcc17&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
-	
-</details>
-
