@@ -69,15 +69,6 @@ Soy un Ingeniero de Software enfocado en resolver problemas complejos de negocio
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miguelcc17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=3776AB&icon_color=3776AB" alt="Miguel's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcc17&layout=compact&theme=tokyonight&hide_border=true&title_color=3776AB" alt="Top Languages" width="48%" />
-</div>
-
-<br />
-
 <details>
 <summary>🏆 <b>Ver Trofeos de Perfil</b></summary>
 <br />
